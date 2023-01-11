@@ -21,7 +21,8 @@ Application has login page:
 After successful login/password verifying client receives JSON-web-token. After saving token in local storage, client <br>
 makes **GEt** request for all orders.<br>
 Orders manager looks like this:
- ![New video](https://user-images.githubusercontent.com/102211370/211869732-be87fad1-8d55-4258-9acd-4a5df7fe41ab.gif)
+![Снимок экрана (47)](https://user-images.githubusercontent.com/102211370/211870215-86eb6060-e9f5-415f-9c08-6f51a4e5417d.png)
+
 <br>
 
 All changes are saving in Mongo DB Atlas
